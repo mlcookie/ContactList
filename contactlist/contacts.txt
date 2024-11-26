@@ -1,0 +1,2 @@
+Joey|Tribbiani|+33545676545|Main Street|21
+Chandler|Bing|+3333333333|Adress 2|25
